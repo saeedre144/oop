@@ -5,7 +5,7 @@ class HomeController{
 
     public function index()
     {
-        echo "Hello Saeed";
+        echo "Hello ahmad";
     }
 
 }
